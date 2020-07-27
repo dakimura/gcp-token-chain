@@ -5,7 +5,7 @@ gcp-token-chain package contains an implementation to have multiple `oauth2.Toke
 ## Installation
 
 ~~~~
-go get github.com/dakimura/gcp-token-chain
+go get "github.com/dakimura/gcp-token-chain/oauth2"
 ~~~~
 
 Or you can manually git clone the repository to
