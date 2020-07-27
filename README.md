@@ -1,11 +1,11 @@
-# Google Token Source Chain
+# Oauth2 Token Source Chain
 
-gcp-token-chain package contains an implementation to have multiple `oauth2.TokenSource`s
+oauth2-token-chain package contains an implementation to have multiple `oauth2.TokenSource`s
 
 ## Installation
 
 ~~~~
-go get "github.com/dakimura/gcp-token-chain/oauth2"
+go get "github.com/dakimura/oauth2-token-chain/oauth2"
 ~~~~
 
 Or you can manually git clone the repository to
@@ -19,7 +19,7 @@ inject some token sources for testing, caching or for some other reasons
 package example
 
 import (
-	"github.com/dakimura/gcp-token-chain/oauth2"
+	"github.com/dakimura/oauth2-token-chain/oauth2"
 	googleoauth2 "golang.org/x/oauth2"
 )
 func main(){
