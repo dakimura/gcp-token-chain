@@ -9,7 +9,7 @@ go get "github.com/dakimura/oauth2-token-chain/oauth2"
 ~~~~
 
 Or you can manually git clone the repository to
-`$(go env GOPATH)/src/github.com/dakimura/gcp-token-chain`.
+`$(go env GOPATH)/src/github.com/dakimura/oauth2-token-chain`.
 
 ## Usage
 

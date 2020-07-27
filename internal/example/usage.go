@@ -1,7 +1,7 @@
 package example
 
 import (
-	"github.com/dakimura/gcp-token-chain/oauth2"
+	"github.com/dakimura/oauth2-token-chain/oauth2"
 	googleoauth2 "golang.org/x/oauth2"
 )
 

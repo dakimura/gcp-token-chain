@@ -1,4 +1,4 @@
-module github.com/dakimura/gcp-token-chain
+module github.com/dakimura/oauth2-token-chain
 
 go 1.14
 
